@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ajaykagarwal
 - 👀 I’m interested in Myself
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently working on MERN stack
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
 -ajayagarwalsa321@gmail.com
