@@ -52,7 +52,6 @@
 ---
 
 ## 📌 Featured Projects
-> 🔧 Replace links with your actual repositories
 
 - 🚀 **MERN Authentication App**  
   Secure authentication system using JWT, MongoDB, Express, React, and Node.js  
